@@ -1,4 +1,4 @@
-###Henrie A
+### Henrie A
 
 🚀 Snowflake Developer | Data Enthusiast
 💻 Designing scalable data pipelines and optimized data models
